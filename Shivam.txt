@@ -1,0 +1,19 @@
+1) How many lines of code is required to integrate TFlite model into your app?
+
+
+2) What will be done in next video? (literally this was a question 😅)
+options were like to add MLkit, to Integrate TFlite model etc.
+
+
+3) Which method was used to add object detection to the app?
+
+
+4) How you will ensure maximum area is used for image capturing? (some what like this i dont remember properly)
+
+
+5)Which backend api is used for product image search?
+
+
+6) What does confidence level in object detection signify?
+
+This are questions which i remember

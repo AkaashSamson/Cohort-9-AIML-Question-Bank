@@ -1,0 +1,10 @@
+My questions:
+1) what is the main idea behind training a neural network
+Options were like to reduce no of epoch, to increase accuracy, to reduce losses
+
+2) what is Google colab 😂😂
+
+3) what is the expected accuracy after 15 epochs
+
+4) what do you require to create a backend app using vision API.....smthng like this
+....could remember only this many for now 🥲

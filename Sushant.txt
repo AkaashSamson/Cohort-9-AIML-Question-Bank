@@ -1,0 +1,12 @@
+1. what is the main idea of machine learning
+2. how many epochs does the following program has(program was not provided so don't know which one they were referring to... But the options are ) (100,200,500,1000).... program not given
+3. is it necessary to train the model for the full 500 epochs ?
+4. how to return to the live camera after searching for the object(press X mark, interact with the result, modal bottom sheet header, all of the above )
+5. how to detect all the objects in the image 
+6. Name the method which was used to call the product.location.image.annotate 
+7. what should be the url  of visionAPI if we deploy custom model (empty string, CloudvisionAPI, demoProjectlocation)
+8. what was used to add convolution to the image (ans : convolution2D and maxpooling)
+9. what is the use of the imagedatagenerator in the cats and dogs(to preprocess the image , add convolution )
+10. what is the 1st step in training the model (downloading the zip file, extracting the zip content, preprocessing the contents , train the model)
+11. What was the function of the method (don't remember the name of the function... Something related to loading the images)
+12. How to detect next digits in handwriting program
